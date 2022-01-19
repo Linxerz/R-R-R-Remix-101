@@ -1,6 +1,6 @@
-// SPDX-License-Idnetifier: GPL-3.0
+// SPDX-License-Identifier: GPL-3.0
 
-pragma solidity 0.8.0;
+pragma solidity 0.8.7;
 
 contract Property {
     int public value;

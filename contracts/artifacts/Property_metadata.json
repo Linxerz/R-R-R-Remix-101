@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_value",
+						"type": "int256"
+					}
+				],
+				"name": "setValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "value",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"blockchainingTraining/R-R-R-Remix-101/contracts/mycontract.sol": "Property"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"blockchainingTraining/R-R-R-Remix-101/contracts/mycontract.sol": {
+			"keccak256": "0xa51c0e0624a3ba043c23d6d726ea5a58ef935dbdfd4a60bc2ce7b4d5cd93a933",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://08fa8db0b3845c295edd2a53da002d06a4ccfb3e786a432a4eae410c7c8a911a",
+				"dweb:/ipfs/QmQGQgg2KJCwko9TT3QDdbwuGKrQPq8RuGA3ouNzBrkjmf"
+			]
+		}
+	},
+	"version": 1
+}
